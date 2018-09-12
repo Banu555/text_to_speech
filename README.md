@@ -2,7 +2,7 @@
 Takes input as text and reads out the information passed by input.
 
 # Running locally
-> Make sure you have [Node.Js](https://nodejs.org/en/)
+> Make sure you have [Node.Js](https://nodejs.org/en/) installed.
 ```
 git clone https://github.com/Banu555/text_to_speech.git
 cd text_to_speech-master
